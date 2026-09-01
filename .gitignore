@@ -10,7 +10,3 @@ build/
 .idea/
 
 *.log
-
-.DS_Store
-
-coverage/
