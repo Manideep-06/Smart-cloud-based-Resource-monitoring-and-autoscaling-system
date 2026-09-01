@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background: linear-gradient(to right, #020617, #0f172a);
+  color: #e2e8f0;
+}
+
+
+.header {
+  padding: 20px;
+  border-bottom: 1px solid #1f2937;
+}
+
+.card-grid {
+  display: flex;
+  gap: 20px;
+  padding: 20px;
+}
+
+.status-card {
+  background: #111827;
+  padding: 20px;
+  border-radius: 10px;
+  width: 220px;
+}
+
+.chart-box {
+  background: #111827;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
